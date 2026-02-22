@@ -7,11 +7,10 @@ perfctl — это утилита командной строки для Linux, 
 Минимальный и нативный интерфейс, без лишних зависимостей.
 
 ## Установка
-git clone https://github.com/CyberMaloy/perfctl.git\n
-cd perfctl/\n
-cp perfctl /usr/sbin/perfctl\n
-chown root:root /usr/sbin/perfctl\n
-chmod 755 /usr/sbin/perfctl\n
-
+git clone https://github.com/CyberMaloy/perfctl.git
+cd perfctl/
+cp perfctl /usr/sbin/perfctl\
+chown root:root /usr/sbin/perfctl\
+chmod 755 /usr/sbin/perfctl
 
 Далее добавляем горячие клавиши в GNOME/KDE которые будут использовать команду perfctl тем самым изменяя профиль производительности.
