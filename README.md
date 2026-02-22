@@ -8,7 +8,7 @@ perfctl — это утилита командной строки для Linux, 
 
 ## Установка
 git clone https://github.com/CyberMaloy/perfctl.git 
-cd perfctl/ 
+ cd perfctl/ 
 
 cp perfctl /usr/sbin/perfctl\
 chown root:root /usr/sbin/perfctl\
