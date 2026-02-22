@@ -10,6 +10,7 @@ perfctl — это утилита командной строки для Linux, 
 git clone https://github.com/CyberMaloy/perfctl.git
 
 cd perfctl/
+ 
 cp perfctl /usr/sbin/perfctl\
 chown root:root /usr/sbin/perfctl\
 chmod 755 /usr/sbin/perfctl
